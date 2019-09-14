@@ -15,7 +15,7 @@ vegetable: ["carrots", "broccoli", "cucumbers"],
 meat: ["chicken", "steak", "salmon"],
 grains: ["rice", "pasta"]
 }
-  groceries.min
+  puts groceries.min
 end
 
 get_the_min_2
