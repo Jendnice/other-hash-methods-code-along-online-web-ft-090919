@@ -18,4 +18,4 @@ grains: ["rice", "pasta"]
   groceries.min
 end
 
-get_the_min_2(groceries)
+get_the_min_2
