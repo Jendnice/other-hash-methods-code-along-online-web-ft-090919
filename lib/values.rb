@@ -9,6 +9,5 @@ require 'pry'
 # }
 
 def get_the_values(groceries)
-  new_groceries = []
-  new_groceries << groceries.values.to_s
+ groceries.values.flatten
 end
